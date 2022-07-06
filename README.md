@@ -27,4 +27,4 @@ I am a self-taught data analyst and tutor  who is passionate about working with 
 
 <p>&nbsp;<img align="center" style="margin-top:20px;" src="https://github-readme-stats.vercel.app/api?username=tripleaceme&show_icons=true&locale=en" alt="tripleaceme" /></p>
 
-<p)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripleaceme&" alt="tripleaceme" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripleaceme&" alt="tripleaceme" /></p>
