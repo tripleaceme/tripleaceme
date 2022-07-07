@@ -7,7 +7,7 @@ I am a self-taught data analyst and tutor  who is passionate about working with 
 
  🔭 I’m currently working on [UFO Sighting Database Project](https://github.com/tripleaceme/UFO-Sightings-Project)
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering.** You can check the projects [here](https://github.com/tripleaceme/Data-Engineering-Projects)
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/tripleaceme?tab=repositories)
 
