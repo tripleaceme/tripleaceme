@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=56bff0&lines=👋+Hi+there%2C+I'm+Ayoade+%20Abel!)](https://git.io/typing-svg)
 
-I am a data analyst who is versed in SQL, Excel, PowerBi, Tableau and Python. 
+A data analyst who is well versed in SQL, Excel, PowerBi, Tableau and Python. 
 
 As a Data Professional I have a strong passion for developing Dashboards, Reports, Data Models and Performance related insights. Since I can map the Business Requirements as a Business Analyst and as a Data Analyst / Business Intelligence Specialist then translate them into operational dashboard and Performance related insights, I can always develop a solution with no miscommunication with stakeholders. 
 
