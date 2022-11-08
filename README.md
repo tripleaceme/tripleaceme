@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=56bff0&lines=Hi, +👋🏾👩🏾‍💻,+Hi+there%2C+I'm+Ayoade+%20Abel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=56bff0&lines=Hi,+👋🏾👩🏾‍💻,+Hi+there%2C+I'm+Ayoade+%20Abel!)](https://git.io/typing-svg)
 
 A data analyst who is well versed in SQL, Excel, PowerBi, Tableau and Python. 
 
