@@ -6,11 +6,11 @@ As a Data Professional I have a strong passion for developing Dashboards, Report
 
  🔭 I’m currently working on [Tableau Certification](#)
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/tripleaceme?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/tripleaceme?tab=repositories)
 
-- 📝 I regularly write articles on [Here](https://www.linkedin.com/in/tripleaceme/)
+- 📝 I regularly write articles on [here](https://www.linkedin.com/in/tripleaceme/)
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1uRoq1DDZabURHYexzEIMppNOlKVpptn4/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Uknwts7WjshU1p0FNJgCubCsyvsEt-bQ/view?usp=sharing)
 
 
 ## ⚙ Tools & Technologies
