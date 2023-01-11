@@ -10,9 +10,9 @@ As a Data Professional I have a strong passion for developing Dashboards, Report
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/tripleaceme/) and [Notion](#)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Uknwts7WjshU1p0FNJgCubCsyvsEt-bQ/view?usp=sharing)
+- 📄 Know about my experiences [here](#)
 
-- 
+
 ## ⚙ Tools & Technologies
 
 - 💻&nbsp;&nbsp;Languages:&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB">](https://www.python.org/)&nbsp;
