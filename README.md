@@ -4,15 +4,15 @@ A data analyst who is well versed in SQL, Excel, PowerBi, Tableau and Python.
 
 As a Data Professional I have a strong passion for developing Dashboards, Reports, Data Models and Performance related insights. Since I can map the Business Requirements as a Business Analyst and as a Data Analyst / Business Intelligence Specialist then translate them into operational dashboard and Performance related insights, I can always develop a solution with no miscommunication with stakeholders. 
 
- 🔭 I’m currently working on [Tableau Certification](#)
+ 🔭 Just got my [Airflow Certification](https://www.credly.com/badges/dda11d4d-dacc-443a-b44c-96f02f0fcac6/public_url)
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/tripleaceme?tab=repositories)
 
-- 📝 I regularly write articles on [here](https://www.linkedin.com/in/tripleaceme/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/tripleaceme/) and [Notion](#)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Uknwts7WjshU1p0FNJgCubCsyvsEt-bQ/view?usp=sharing)
 
-
+- 
 ## ⚙ Tools & Technologies
 
 - 💻&nbsp;&nbsp;Languages:&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB">](https://www.python.org/)&nbsp;
