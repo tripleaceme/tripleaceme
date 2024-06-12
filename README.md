@@ -25,7 +25,7 @@ Actively pursuing a strategic position to steer data-driven decision-making, des
 
 | Data Engineering Projects | Data Analytics Projects |
 |---------------------------|-------------------------|
-|  [![Data Engineering](https://github.com/tripleaceme/Data-Engineering-Projects/blob/main/de.gif)](https://github.com/tripleaceme/Data-Engineering-Projects) | [![Data Analytics](https://github.com/tripleaceme/Data-Analytics-Projects/blob/main/da2.gif)](https://github.com/tripleaceme/Data-Analytics-Projects)|
+|  [![Data Engineering](https://github.com/tripleaceme/Data-Engineering-Projects/blob/main/de.gif)](https://github.com/tripleaceme/Data-Engineering-Projects) | [![Data Analytics](https://github.com/tripleaceme/Data-Analytics-Projects/blob/main/da.gif)](https://github.com/tripleaceme/Data-Analytics-Projects)|
 
 ## 📜 Certifications
 
